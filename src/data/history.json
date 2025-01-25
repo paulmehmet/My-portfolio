@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "TechNova Solutions",
+    "startDate": "Feb, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Built responsive and high-performing web applications using React and TypeScript.",
+      "Collaborated with backend teams to integrate RESTful APIs, ensuring seamless data flow.",
+      "Optimized website performance, achieving a 40% reduction in load times.",
+      "Implemented reusable components and design systems to streamline development across projects."
+    ],
+    "imageSrc": "history/Technova.jpeg"
+  },
+  {
+    "role": "Frontend Developer Intern",
+    "organisation": "Innovatech Labs",
+    "startDate": "Feb, 2022",
+    "endDate": "Jan, 2023",
+    "experiences": [
+      "Assisted in developing user-friendly interfaces for e-commerce platforms using React and Redux.",
+      "Performed cross-browser testing to ensure consistent experiences across devices.",
+      "Enhanced website accessibility, improving compliance with WCAG standards.",
+      "Contributed to UI/UX discussions, providing insights for improved design aesthetics."
+    ],
+    "imageSrc": "history/Innovatech.png"
+  }
+]
